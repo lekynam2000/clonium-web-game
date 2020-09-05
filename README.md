@@ -1,4 +1,5 @@
-# clonium-web-game
+# Clonium
+This is a web version of Clonium web game. Access the web [here](https://frozen-cove-76599.herokuapp.com/)
 
 ## How to install this project locally.
 
@@ -20,3 +21,6 @@ Run:
 ```
 npm run dev
 ```
+## Some illustration.
+![Room List](illu/roomList.PNG)
+![Playing](illu/playing.PNG)
